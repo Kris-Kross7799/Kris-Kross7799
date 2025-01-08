@@ -4,6 +4,4 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/py-python-turquoise?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/Kris-Kross-pink?style=for-the-badge">
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kris-Kross7799&show_icons=true&theme=radical)
